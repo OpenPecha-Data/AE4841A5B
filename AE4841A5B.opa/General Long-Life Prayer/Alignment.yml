@@ -1,0 +1,31 @@
+segment_sources:
+  PD17EEB24:
+    type: origin_type
+    relation: translation
+    language: en
+  PA2CB44EA:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  be04e0bcdb0f470b80c0b2528e7ad31c:
+    PD17EEB24: 9e4f4b480c4045ed9dd74a4b72802946
+    PA2CB44EA: 20817ebb0efc403c85e817d7febcd702
+  238d9a7742bf45dcb96b7c7bd1833e2a:
+    PD17EEB24: 7bdd424a8db54dad80362d1031bb75d8
+    PA2CB44EA: f77f33e636b849c49811df22ecf53b07
+  492dcfa32d5b419fa46b39e94d7948f4:
+    PD17EEB24: 756fc32cb9964c0c95e1b1c4a1fcdf82
+    PA2CB44EA: cba01cecd6f540cab65e889e81a1c7b0
+  40a0c3015d7744c9bf923bf70b9b3326:
+    PD17EEB24: 3f13d727d46a4b3880fe0da62877a91a
+    PA2CB44EA: 99f9d5f2e43d4bc990db1d9b1684e0e7
+  31a05fd696724b3da04051a21f299520:
+    PD17EEB24: 647b423cd1e24a3c90b41f24a4590dd7
+    PA2CB44EA: 138b8e06aa50448e949bcdc230440240
+  d994f6646aa94e44b1e680cc0ad8da01:
+    PD17EEB24: 8e72e47d200f4fb5ab2dfab3ca05883c
+    PA2CB44EA: 14f1585b2544454abc934380bf56f140
+  f08b1f1460e34eb19a28144940fac6ce:
+    PD17EEB24: f9f10677405f4e8682399bc4c1b9c0b8
+    PA2CB44EA: 32829c3983554e7c917bafc447d5bca6

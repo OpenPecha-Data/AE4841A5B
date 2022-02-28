@@ -1,0 +1,19 @@
+segment_sources:
+  PD17EEB24:
+    type: origin_type
+    relation: translation
+    language: en
+  PA2CB44EA:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  4baa320003c44944b47f313266d62f45:
+    PD17EEB24: 0f298b706d534a418a8294abdd316782
+    PA2CB44EA: 96f449c94e0444ff85c53762c2cae182
+  37ac472a9dbb4087bcae6b7e05584c24:
+    PD17EEB24: 07de333cace14fd6b787daddd5b60a29
+    PA2CB44EA: 53a661f3beba48798dfb3067de16c7c9
+  80579d20f43f40afbca1263ed9c9eac9:
+    PD17EEB24: 8cc4f5235e64478687b89a2fabeaa36d
+    PA2CB44EA: c219977d77cf4e0c8c20622c652176f4

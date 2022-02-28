@@ -1,0 +1,64 @@
+segment_sources:
+  PD17EEB24:
+    type: origin_type
+    relation: translation
+    language: en
+  P54335B31:
+    type: origin_type
+    relation: translation
+    language: de
+  PCBAB5F88:
+    type: origin_type
+    relation: translation
+    language: es
+  PA2DD2A1B:
+    type: origin_type
+    relation: translation
+    language: fr
+  PA2CB44EA:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  ce681c754f194e3cab5b3fc0ddf6eb9a:
+    PD17EEB24: cdb95afdcb4e4cdf885d10ba20e83aeb
+    P54335B31: fa32bcc0381043d28a38070657f0bfec
+    PCBAB5F88: 4d4025c9e3424249abdaedad15b0e944
+    PA2DD2A1B: bc30352b60c14527b99ac514d5adcce5
+    PA2CB44EA: 583e273685ef45f9bdbfe50408672752
+  3ab4287f034e44a5a77f9a5904a23aca:
+    PD17EEB24: f799dff693b246579d160bfff7a45a1e
+    P54335B31: 682700ab6b0e4ad4a6aba021c85f6a5d
+    PCBAB5F88: e20deefa88524a93a088919db99c4160
+    PA2DD2A1B: 74fa0f1482bc4df69323c5178a38c350
+    PA2CB44EA: 0f604d75209f4ef0b6c07ce2e7aaf2d3
+  239544fa4e43405eab0333f475726bdd:
+    PD17EEB24: 5a40e776d7d645a0a40d99e5bd6c8300
+    P54335B31: e523f31c47194d5d84e29a7c0a3dd92c
+    PCBAB5F88: 1a95314bae384c15ab98c370031ce6fc
+    PA2DD2A1B: 5e5d270f056d49afa7ebef3db24dfdae
+    PA2CB44EA: 8e4dac3298554b1ebc50a0d888cab0a2
+  427aa14952a94f84983643f491042e21:
+    PD17EEB24: e9b44e88b40e45858cc43f41c82c75da
+    P54335B31: a18a8038f80f4084b325a94e362aeec1
+    PCBAB5F88: fc0d5ce1cbca4ab9985d4ec229648fab
+    PA2DD2A1B: b7282c90f50e4acf81fd725f04c33f7c
+    PA2CB44EA: 8897f9af4c684951996d2b03895f020c
+  23eb8af6a5ea422c81f16da57751f3c8:
+    PD17EEB24: cf58ca292ed843e18f95ce0af463bb3a
+    P54335B31: 8902dadc66824d47a3818a265595affe
+    PCBAB5F88: 781e6acd96494fa8aa1b7f680d5149a8
+    PA2DD2A1B: f5c8695b519049809c75a9ef29b6ba15
+    PA2CB44EA: 3951e4be5ac54718b80984c92aad4fca
+  52d9c2c3dcbc4a4b934359ecc50fcd2f:
+    PD17EEB24: 3299c8c1981844119ea0e5aa58a8c9be
+    P54335B31: 3769cbf4afe6446ab4a64ba29d09f6fe
+    PCBAB5F88: 1f57d5d99d9349b1935add253fa3ca7e
+    PA2DD2A1B: 2941af857fbd404d921d90cc50e9e948
+    PA2CB44EA: 08191486df3a40719d2e89066cfcdea6
+  c8f5981400e1447ea326dec6e30b7f7a:
+    PD17EEB24: fbcb523c2503451d81421dee19153b0a
+    P54335B31: a1ab709921534f7fb886e83c78167aaa
+    PCBAB5F88: 74cce1c99f0c4460915cfa03352ccf1c
+    PA2DD2A1B: 637e6e82e8dd45c8a6e881fa4328481c
+    PA2CB44EA: af24e61920e640fc832cde88237e1e2a

@@ -1,0 +1,64 @@
+segment_sources:
+  PD17EEB24:
+    type: origin_type
+    relation: translation
+    language: en
+  P54335B31:
+    type: origin_type
+    relation: translation
+    language: de
+  PCBAB5F88:
+    type: origin_type
+    relation: translation
+    language: es
+  PA2DD2A1B:
+    type: origin_type
+    relation: translation
+    language: fr
+  PA2CB44EA:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  1567b7f74622473080779f2177b5cee7:
+    PD17EEB24: 92a3507abe104aefa2099947ce4a7907
+    P54335B31: 18a02decf4714ac7b943909fe17382b0
+    PCBAB5F88: 74da68e2c93d420bb5afd2ae6b5daa59
+    PA2DD2A1B: 6a2870d9a2354644909342ab42d476ec
+    PA2CB44EA: 316688a94c6343a6b8ace5c994a6f74e
+  dcd30918736a43b4a56e76e58e34fccf:
+    PD17EEB24: 11b9c95f9ef34a11bdcbc0bb2503a0f8
+    P54335B31: a77aaa25f52e49e2b2e6bdb594130c68
+    PCBAB5F88: c84d4d2e97bf4434964f4476c4b4ce16
+    PA2DD2A1B: 1e27ce56f55e443f9330f344f8da8c53
+    PA2CB44EA: a0af6a2530d64a16ac83fef37fc40104
+  5f0a05b659954bceb0c491366bfbec19:
+    PD17EEB24: 0b1b4bf0cf56491a9cd6acfa1be9d80c
+    P54335B31: 31a2d3486b2245c0bed7b82522cfd6ab
+    PCBAB5F88: 04c0442e385f47a49880d989bb01097c
+    PA2DD2A1B: c165deabec2d4691b0fb84a8d25c3700
+    PA2CB44EA: 15ea075780aa42cba9cca7891bc55d30
+  5718669450864a629520015d84271a60:
+    PD17EEB24: 78e7c75cf23f434a98a685bd49855e59
+    P54335B31: 3f69d9b884104899b69b62fb6d4b1ea1
+    PCBAB5F88: 77acbec343194a16897243ae9982e494
+    PA2DD2A1B: d8a4f5ecc60f49e8b6e11c8c19a9dd5b
+    PA2CB44EA: 4f75670f2c8744dcb61ec5a3171a4d28
+  fb6666702cf04729a41bae9abc27eeab:
+    PD17EEB24: 77f3ba7c85664af79d8eae3637d967fd
+    P54335B31: 39f01ed25ba846f4b8176ad4e656a382
+    PCBAB5F88: 79c5a84fd8004fdb9e3d18785e6eddfe
+    PA2DD2A1B: 8ddb009df46b4aa69308eab70d1a2c70
+    PA2CB44EA: 8ccad93fb3e547cea85855d99069c622
+  8692c7eb833e4286ab6ee7c0f1172b09:
+    PD17EEB24: 40374613b5614a6abc3120303129a018
+    P54335B31: ec5d61a5d29548c5a03f2408289c6c75
+    PCBAB5F88: b2bb371fccd64a379a27fd3b2f06086b
+    PA2DD2A1B: 94afeab7eaf844c5a3c44a2e6f875dc3
+    PA2CB44EA: 3b2f1c9f30344995be5db168db8ebdf2
+  ef1bbb65dddf4e21a2a8f665ae2843b9:
+    PD17EEB24: 3183867b5cfb4890836028c5edf92c4a
+    P54335B31: 05dee61ce24948b488700621df5ed09e
+    PCBAB5F88: 5e8c75d6323e48829c5402a045d0c826
+    PA2DD2A1B: 143509c492f54730bb05edde3a42b16c
+    PA2CB44EA: bb86c77be4064f19b2af8719f5da8ace

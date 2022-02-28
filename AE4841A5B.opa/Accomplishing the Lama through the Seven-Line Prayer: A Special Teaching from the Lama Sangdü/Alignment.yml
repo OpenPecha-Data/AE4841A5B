@@ -1,0 +1,34 @@
+segment_sources:
+  PD17EEB24:
+    type: origin_type
+    relation: translation
+    language: en
+  P54335B31:
+    type: origin_type
+    relation: translation
+    language: de
+  PCBAB5F88:
+    type: origin_type
+    relation: translation
+    language: es
+  PA2DD2A1B:
+    type: origin_type
+    relation: translation
+    language: fr
+  PA2CB44EA:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  1ff8f9156c554f17b568668bcf6b5a7b:
+    PD17EEB24: d4074ca6b42c4c7a9db6d6dd950f0d78
+    P54335B31: 4753bac44ae644a2a66e438aba9eabe4
+    PCBAB5F88: 2e26d511515946449be5546ee9decd8d
+    PA2DD2A1B: 9fca9525775b46459636f21030a68f42
+    PA2CB44EA: 8ed8b5f3a0ca453193cb6b7e308efb85
+  6d16c19114334d9190a254ca0f2aa0f4:
+    PD17EEB24: 5a48cc68433b400ea9e9bc32a4ff65bd
+    P54335B31: 015a1e133cf44551a7b31243fca349ff
+    PCBAB5F88: aaef2844c4da44e58e7399f5c3ff2c48
+    PA2DD2A1B: ac73f80526914b6c81820e277e62f78d
+    PA2CB44EA: 5dbbdc273c2742d6a700747d70d690b5
